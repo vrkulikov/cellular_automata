@@ -1,1 +1,1 @@
-# cellural_automata
+# cellular_automata
